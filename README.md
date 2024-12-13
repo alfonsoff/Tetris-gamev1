@@ -1,6 +1,6 @@
 # React Tetris V1
 
-Tetris game built with React
+Tetris game built with Reacting
 
 <h1 align="center">
   <img alt="React tetris " title="#React tetris desktop" src="./images/game.jpg" />
